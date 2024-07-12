@@ -1,0 +1,89 @@
+{
+    "Geography": [
+        "high_school_geography_val.csv"
+    ],
+    "Physics": [
+        "astronomy_val.csv",
+        "conceptual_physics_val.csv",
+        "college_physics_val.csv",
+        "high_school_physics_val.csv"
+    ],
+    "Biology": [
+        "medical_genetics_val.csv",
+        "anatomy_val.csv",
+        "high_school_biology_val.csv",
+        "human_sexuality_val.csv",
+        "human_aging_val.csv",
+        "college_biology_val.csv"
+    ],
+    "Computer Science": [
+        "high_school_computer_science_val.csv",
+        "machine_learning_val.csv",
+        "computer_security_val.csv",
+        "college_computer_science_val.csv"
+    ],
+    "Business": [
+        "business_ethics_val.csv",
+        "management_val.csv",
+        "marketing_val.csv",
+        "professional_accounting_val.csv"
+    ],
+    "Others": [
+        "global_facts_val.csv",
+        "high_school_government_and_politics_val.csv",
+        "miscellaneous_val.csv",
+        "world_religions_val.csv",
+        "us_foreign_policy_val.csv",
+        "formal_logic_val.csv",
+        "high_school_macroeconomics_val.csv",
+        "nutrition_val.csv",
+        "virology_val.csv",
+        "logical_fallacies_val.csv",
+        "public_relations_val.csv",
+        "high_school_microeconomics_val.csv",
+        "security_studies_val.csv"
+    ],
+    "Philosophy": [
+        "philosophy_val.csv",
+        "moral_scenarios_val.csv",
+        "moral_disputes_val.csv"
+    ],
+    "Math": [
+        "high_school_mathematics_val.csv",
+        "abstract_algebra_val.csv",
+        "econometrics_val.csv",
+        "college_mathematics_val.csv",
+        "high_school_statistics_val.csv",
+        "elementary_mathematics_val.csv"
+    ],
+    "Medicine": [
+        "college_medicine_val.csv",
+        "clinical_knowledge_val.csv",
+        "professional_medicine_val.csv"
+    ],
+    "Engineering": [
+        "electrical_engineering_val.csv"
+    ],
+    "Law": [
+        "international_law_val.csv",
+        "professional_law_val.csv",
+        "jurisprudence_val.csv"
+    ],
+    "History": [
+        "prehistory_val.csv",
+        "high_school_world_history_val.csv",
+        "high_school_european_history_val.csv",
+        "high_school_us_history_val.csv"
+    ],
+    "Chemistry": [
+        "high_school_chemistry_val.csv",
+        "college_chemistry_val.csv"
+    ],
+    "Psychology": [
+        "professional_psychology_val.csv",
+        "high_school_psychology_val.csv"
+    ],
+    "Sociology": [
+        "sociology_val.csv"
+    ]
+}

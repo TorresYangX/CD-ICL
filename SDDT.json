@@ -1,0 +1,37 @@
+{
+    "Physics": [
+        "astronomy_val.csv",
+        "conceptual_physics_val.csv"
+    ],
+    "Biology": [
+        "medical_genetics_val.csv",
+        "anatomy_val.csv",
+        "human_sexuality_val.csv",
+        "human_aging_val.csv"
+    ],
+    "Computer Science": [
+        "machine_learning_val.csv",
+        "computer_security_val.csv"
+    ],
+    "Business": [
+        "business_ethics_val.csv",
+        "management_val.csv",
+        "marketing_val.csv",
+        "professional_accounting_val.csv"
+    ],
+    "Math": [
+        "abstract_algebra_val.csv",
+        "econometrics_val.csv",
+        "elementary_mathematics_val.csv"
+    ],
+    "Law": [
+        "international_law_val.csv",
+        "jurisprudence_val.csv"
+    ],
+    "History": [
+        "prehistory_val.csv",
+        "high_school_world_history_val.csv",
+        "high_school_european_history_val.csv",
+        "high_school_us_history_val.csv"
+    ]
+}
